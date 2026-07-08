@@ -1,3 +1,9 @@
+> ⚠️ **This fork is no longer maintained.** Nicor Gas support has been merged upstream ([PR #18](https://github.com/Southern-Company-HA/southern_company_api/pull/18), v0.7.0).
+>
+> 👉 **Use the official repo:** [Southern-Company-HA/southern_company_api](https://github.com/Southern-Company-HA/southern_company_api)
+>
+> Install from PyPI: `pip install southern-company-api`
+
 # Southern Company API
 
 <p align="center">
